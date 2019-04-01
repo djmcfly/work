@@ -1,4 +1,4 @@
-package Test;
+package work;
 
 public class TestTR1 {
 	public static void main(String[] args) {
